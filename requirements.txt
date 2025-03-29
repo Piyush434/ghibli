@@ -6,3 +6,5 @@ transformers
 opencv-python-headless
 numpy
 Pillow
+imageio  # Alternative backend for OpenCV
+imageio[ffmpeg]  # For better compatibility
